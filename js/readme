@@ -1,1 +1,16 @@
+Hack or Snooze message boards.
+
+main.js
+--Mechanics for the main function of the app
+
+models.js
+--Object-Oriented models for Story, StoryList, and User classes.
+
+nav.js
+--Handling navigation clicks and updating the navbar
+
+stories.js
+--Handling adding and deleting stories as well as marking favorites.
+user.js
+--Handling signup/login of users  
 
